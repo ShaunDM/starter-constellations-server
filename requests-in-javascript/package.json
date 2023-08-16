@@ -1,0 +1,17 @@
+{
+  "name": "requests-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "requests.js",
+  "console": "integratedTerminal",
+  "outputCapture": "std",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
